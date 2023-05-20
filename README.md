@@ -1,4 +1,4 @@
-# Vehicle-Counting-and-Classification
+# Vehicle-Classification-and-Counting
 
 **Features**
 Object detection using Single Shot MultiBox Detector (SSD) with MobileNet as the base architecture.
