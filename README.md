@@ -1,10 +1,10 @@
 # Vehicle-Counting-and-Classification
 
 **Features**
-Object detection using Single Shot MultiBox Detector (SSD) with MobileNet as the base architecture.
-Color detection using the K-Nearest Neighbors (KNN) algorithm.
-Lightweight and efficient models suitable for real-time applications.
-Customizable and extensible for further experimentation.
+Object detection using Single Shot MultiBox Detector (SSD) with MobileNet as the base architecture.\n
+Color detection using the K-Nearest Neighbors (KNN) algorithm.\n
+Lightweight and efficient models suitable for real-time applications.\n
+Customizable and extensible for further experimentation.\n
 
 **Requirements**
 The following python libraries are requried to run the project:
