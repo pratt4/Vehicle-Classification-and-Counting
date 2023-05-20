@@ -1,4 +1,4 @@
-# Vehicle-Counting-and-Classification-
+# Vehicle-Counting-and-Classification
 
 **Requirements**
 The following python libraries are requried to run the project:
